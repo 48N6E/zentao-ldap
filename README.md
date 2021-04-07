@@ -3,6 +3,9 @@
 
 这个插件是在 “[禅道开源版LDAP插件](https://www.zentao.net/extension-buyExt-326-download.html)” 上基础进行的修正，使其可以在 禅道开源版 11.5 上正常运行
 
+
+### 使用方式
+直接下载zip文件上传到开源版本的插件中
 ### FAQ
 
 - 
